@@ -15,4 +15,4 @@ PQWD="/opt/pq_watchdog.sh"
 
 PQWD_PIDFILE="/var/run/pq_watchdog.pid"
 
-PQWD_LOG="/var/log/pq_watchdog.log"
+PQWD_LOGFILE="/var/log/pq_watchdog.log"
